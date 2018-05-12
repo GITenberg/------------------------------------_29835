@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2352
     wikipedia: http://en.wikipedia.org/wiki/Thucydides
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29835#------------------------------------
 gutenberg_issued: '2009-08-28'
 gutenberg_type: Text
 identifiers:
