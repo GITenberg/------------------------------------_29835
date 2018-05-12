@@ -1,0 +1,43 @@
+_repo: '------------------------------------_29835'
+_version: 0.1.0
+alternative_title: "Peloponnesian war\r\nVolume 3"
+contributor:
+  translator:
+    agent_name: Zervos, I. (Ioannes)
+    aliases:
+    - Zervos, John
+    - Zervos, Ioannes
+    - Zerbos, I. (Ioannes)
+    - Ζερβός, Ιωάννης
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '34203'
+    url: http://www.gutenberg.org/2009/agents/34203
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thucydides
+    aliases:
+    - Θουκιδίδης
+    - Θουκυδίδης
+    birthdate: -460
+    deathdate: -395
+    gutenberg_agent_id: '2352'
+    url: http://www.gutenberg.org/2009/agents/2352
+    wikipedia: http://en.wikipedia.org/wiki/Thucydides
+description: ''
+gutenberg_issued: '2009-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29835'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- Peloponnesian War, 431-404 B.C.'
+- !lcc 'DF'
+title: Πελοποννησιακός Πόλεμος, Τόμος τρίτος
+url: http://www.gutenberg.org/ebooks/29835
